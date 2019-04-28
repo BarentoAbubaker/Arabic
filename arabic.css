@@ -36,9 +36,13 @@ nav{
 }
 
 ul{
- list-style-type: none;
- margin: 0;
- padding: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: #d4f98e;
+    border: solid 1px black;
+    border-right: solid 1px black;
+    border-radius: 50px;
 }
 
 table, th, td{
